@@ -1,0 +1,5 @@
+{
+  "name": "Research Intelligence Platform",
+  "description": "A platform for monitoring scientific publications, analyzing trends, identifying knowledge gaps, and suggesting future research directions using Gemini AI.",
+  "requestFramePermissions": []
+}
